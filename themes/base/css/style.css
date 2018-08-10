@@ -1,0 +1,183 @@
+/**********table of content************/
+
+/***********************************
+
+1. common css
+2. header 
+3. body content
+4. forms
+5. footer
+
+/**********************************/
+
+/********************common**********/
+
+body, .theme-logo-bg {
+	color: #000;
+	background: #fff;
+}
+
+
+.main_wrapper {
+	min-height: 100vh;
+	margin-bottom: 0;
+}
+
+/***********theme color***********/
+.theme-info header .navbar.navbar-inverse{
+	background:#00abe7;
+}
+.theme-success header .navbar.navbar-inverse
+{
+	background:#00A65A;
+}
+
+
+.theme-danger header .navbar.navbar-inverse
+{
+	background:#e9422e;
+}
+
+
+.theme-warning header .navbar.navbar-inverse
+{
+	background:#fac552;
+}
+
+
+.theme-sea-green header .navbar.navbar-inverse
+{
+	background:#01a4a4;
+}
+
+
+.theme-purple header .navbar.navbar-inverse
+{
+	background:#9c78cd;
+}
+
+
+.theme-primary header .navbar.navbar-inverse
+{
+	background:#00abe7;
+}
+ 
+/* 
+html body .bg-blue, html body .info-number .bg-blue {
+	color: #fff;
+	background-color: #1CA0F2;
+}
+
+html body .bg-success, html body .info-number .bg-success {
+	color: #fff;
+	background-color: #53d192;
+}
+
+
+html body .bg-warning, html body .info-number .bg-warning {
+	color: #fff;
+	background-color: #F7941D;
+}
+html body .bg-voilet, html body .info-number .bg-voilet {
+	color: #fff;
+	background-color: #652c90;
+}
+html body .bg-danger, html body .info-number .bg-danger {
+	color: #fff;
+	background-color: #652c90;
+}
+html body .bg-dark, html body .info-number .bg-dark {
+	color: #fff;
+	background-color: #2b2b2c;
+}
+ */
+
+.navbar-inverse .navbar-brand {
+	color: #fff;
+}
+
+
+
+.theme-info header .navbar.navbar-inverse{
+	background:#00abe7;
+}
+.theme-success header .navbar.navbar-inverse
+{
+	background:#00A65A;
+}
+
+
+.theme-danger header .navbar.navbar-inverse
+{
+	background:#e9422e;
+}
+
+
+.theme-warning header .navbar.navbar-inverse
+{
+	background:#fac552;
+}
+
+
+.theme-sea-green header .navbar.navbar-inverse
+{
+	background:#01a4a4;
+}
+
+
+.theme-purple header .navbar.navbar-inverse
+{
+	background:#9c78cd;
+}
+
+
+.theme-primary header .navbar.navbar-inverse
+{
+	background:#00abe7;
+}
+
+/***********header**************/
+
+.nav-wrapper .navbar {
+	border-radius: 0;
+	border: none;
+	margin-bottom: 0;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #fff;
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+	color: #fff;
+	background-color: rgba(255,255,255,0.2);
+}
+
+/************footer***********/
+footer {
+	background: #000;
+	padding: 13px 0;
+}
+footer p{
+
+	color:#fff;
+	}
+
+.main_wrapper{
+	min-height:100vh;
+	
+}
+	
+	
+.form-control {
+	height: 40px;
+}
+
+.form-control-feedback {
+	top: 3px;
+	
+	border-left: 1px solid #ddd;
+	color: #7E7E7E;
+}
+.login-form {
+	margin-top: 20px;
+}

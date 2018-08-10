@@ -1,0 +1,109 @@
+
+
+@media (min-width: 768px) and (max-width: 1054px) {
+	
+}
+
+
+/* Media 420Px Start */
+
+@media (max-width: 767px) {
+.btn.btn-light
+{background-color: #27aee2;
+border: 1px solid #27aee2;
+width: 100%;
+padding: 8px 10px;
+color: #fff !important;
+margin-bottom: 3px;}
+
+.navbar-default .navbar-nav > li > a:hover{background-color: #27AEE2;}
+.r-button{width: 30% !important;}
+.slider_text {padding: 10px 0 !important;}
+.lef_btn{display: none;}
+.right_btn{display: none;}
+
+
+.hr-heading::after{bottom: -10px !important;}
+
+.slider_btn {margin-top: 7px!important;}
+
+
+.heading {
+    font-size: 20px !important;
+}
+
+
+
+
+}
+
+
+/* Media 300Px Start */
+
+@media (max-width: 480px) {
+
+#slider .carousel-caption h1{font-size: 24px!important;}
+.slider_text > p{line-height: 21px!important;}
+
+
+.slider_btn a{margin-bottom:10px !important;!important;!important;}
+
+
+#slider .item:nth-child(3) .carousel-caption .slider_text {
+    text-align: center;
+    float: center;}
+
+
+.prodecut_box .mb-20 {
+    margin-bottom: 75px !important;
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+	
+.categories-icon .col-xs-12 {
+    width: 50%;
+}
+.products .col-xs-12 {
+    width: 50%;
+}
+
+
+
+
+}
+
+
+
+/* Media 940Px Start */
+
+@media screen and (min-width: 991px) and (max-width: 1054px) {}
+
+
+/* Media 940Px Start */
+
+@media screen and (min-width: 991px) and (max-width: 1250px) {
+	
+}
+
+
+
+
+
+}
+
+@media only screen and (max-width: 1098px) and (min-width: 320px) {
+	
+}
+

@@ -1,0 +1,15 @@
+.settings
+.project
+/assets/
+/.buildpath
+/protected/vendor
+/protected/runtime/
+/protected/modules/tugii
+/protected/modules/backup/
+/protected/modules/install/
+/protected/modules/sitemap/
+/protected/uploads/
+protected/modules/
+
+tests/_output/*
+/vendor
